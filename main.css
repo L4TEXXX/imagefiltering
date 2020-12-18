@@ -1,0 +1,38 @@
+
+body{
+    width:auto;
+    height:auto;
+    margin:0 auto;
+}
+
+.contents-width{
+    max-width: 1140px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contents-item{
+    display:flex;
+    flex-wrap:wrap;
+    width:100%;
+}
+
+.img-box{
+    margin:50px;
+}
+
+.img-box img{
+    display:block;
+    width:453px;
+    height:340px;
+}
+
+li{
+    list-style:none;
+}
+
+.add-hidden{
+    display:none;
+}
